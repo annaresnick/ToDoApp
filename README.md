@@ -31,9 +31,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/vE4U6zG' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](file:///C:/Users/aresnick/Documents/todoapp.gif).
+GIF created with [LiceCap].
 
 ## Notes
 
